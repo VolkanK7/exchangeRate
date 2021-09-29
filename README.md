@@ -1,1 +1,1 @@
-# exchangeRate
+Program, içerisinde JSON formatında güncel döviz kur bilgileri barındıran bir web rest api üzerinden veri çekme, veriyi dönüştürme ardından gerekli Java componentleri ile birlikte kullanıcıya istenilen veriyi sunma işlem yapıldı.
